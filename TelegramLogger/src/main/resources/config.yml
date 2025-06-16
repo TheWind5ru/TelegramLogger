@@ -1,0 +1,5 @@
+telegram:
+  bot-token: "YOUR_BOT_TOKEN_HERE"
+  chat-id: "-1001234567890"  # Приватный канал
+  log-chat: true
+  log-commands: true

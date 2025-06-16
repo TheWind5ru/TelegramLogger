@@ -1,0 +1,7 @@
+name: TelegramLogger
+version: 1.0
+main: com.example.telegramlogger.TelegramLoggerPlugin
+api-version: 1.16
+description: Logs chat and commands to Telegram
+commands: {}
+permissions: {}
