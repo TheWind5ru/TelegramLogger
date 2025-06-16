@@ -1,5 +1,7 @@
 # TelegramLogger
-Minecraft 1.16.5 paper 8 java plugin
+Minecraft 1.16.5 paper 8 java plugin for logs in chanell
+Плагин для логирования всех команд и сообщений в канал телеграма
+
 EN: Plugin building:
 1. open CMD/powershell window
 2. type: cd path/to/dir
