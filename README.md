@@ -8,6 +8,8 @@ EN: Plugin building:
 3. type: mvn clean install
 OR
 Builded .jar in https://github.com/TheWind5ru/TelegramLogger/blob/aba0a0cd9c1aea0cdea2482ccc27bb63638f377a/TelegramLogger/target/TelegramLogger-1.0.jar
+
+
 RU:
 Сборка плагина:
 1. Откройте CMD или Powershell,
